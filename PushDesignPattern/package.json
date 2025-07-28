@@ -1,0 +1,19 @@
+{
+  "name": "backendfundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ahmedkhalil191095:ahmedKhalil191095/BackEndFundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http" : "^0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
